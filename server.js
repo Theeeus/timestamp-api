@@ -40,6 +40,6 @@ app.get('/:datestring', function(req,res){
    res.send(obj);
 });
 
-app.listen(5000, function(){
+app.listen(8080, function(){
    console.log('Timestamp App listening on port 8080'); 
 });
