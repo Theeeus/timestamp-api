@@ -2,6 +2,7 @@ var express = require('express');
 var app = express();
 var moment = require('moment');
 var path = require('path');
+var port = process.env.PORT || 8080;
 
 app.get('/', function(req,res){
    var fileName = path.join(__dirname, 'index.html');
@@ -40,6 +41,6 @@ app.get('/:datestring', function(req,res){
    res.send(obj);
 });
 
-app.listen(8080, function(){
-   console.log('Timestamp App listening on port 8080'); 
+app.listen(port, function(){
+   console.log('Timestamp App listening on port' + port); 
 });
