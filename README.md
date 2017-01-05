@@ -14,10 +14,10 @@ For [Free Code Camp](http://freecodecamp.com) - [API Basejump: Timestamp Microse
 ### Usage
 
 ```
-https://challenges-matheushsalves.cs50.io/November 20, 2014
+https://guarded-crag-29606.herokuapp.com/November 20, 2014
 ```
 ```
-https://challenges-matheushsalves.cs50.io/1416441600
+https://guarded-crag-29606.herokuapp.com/1416441600
 ```
 
 ### Sample Output
@@ -30,4 +30,4 @@ https://challenges-matheushsalves.cs50.io/1416441600
 ```
 
 ### Live Site
-[https://challenges-matheushsalves.cs50.io](https://challenges-matheushsalves.cs50.io)
+[https://guarded-crag-29606.herokuapp.com](https://guarded-crag-29606.herokuapp.com)

@@ -5,7 +5,7 @@ var path = require('path');
 var port = process.env.PORT || 8080;
 
 app.get('/', function(req,res){
-   var fileName = path.join(__dirname, 'index.html');
+   var fileName = path.join(__dirname, 'views/index.html');
    res.sendFile(fileName, function(err){
       if (err) {
          console.log(err);
