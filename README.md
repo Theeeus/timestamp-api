@@ -1,7 +1,7 @@
 # API Basejump: Timestamp Microservice
 
 
-For [Free Code Camp](http://freecodecamp.com) - [API Basejump: Timestamp Microservice](http://www.freecodecamp.com/challenges/basejump-timestamp-microservice)
+For [Free Code Camp](http://freecodecamp.com) - API Basejump: Timestamp Microservice
 
 
 ### User Stories
@@ -14,10 +14,10 @@ For [Free Code Camp](http://freecodecamp.com) - [API Basejump: Timestamp Microse
 ### Usage
 
 ```
-https://guarded-crag-29606.herokuapp.com/November 20, 2014
+http://localhost:8080/November 20, 2014
 ```
 ```
-https://guarded-crag-29606.herokuapp.com/1416441600
+http://localhost:8080/1416441600
 ```
 
 ### Sample Output
@@ -28,6 +28,3 @@ https://guarded-crag-29606.herokuapp.com/1416441600
 "unix":"1416441600"
 }
 ```
-
-### Live Site
-[https://guarded-crag-29606.herokuapp.com](https://guarded-crag-29606.herokuapp.com)
